@@ -1,1 +1,6 @@
 streamlit install pygame
+streamlit
+pillow
+streamlit-lottie
+streamlit-on-Hover-tabs
+requests
